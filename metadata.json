@@ -1,0 +1,8 @@
+{
+  "name": "MeshConnect",
+  "description": "Secure, high-end bento-styled peer-to-peer off-grid network communication suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
